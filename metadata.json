@@ -1,0 +1,6 @@
+{
+  "name": "FinWise AI",
+  "description": "AI-powered personal financial coach helping you spend smarter, borrow responsibly, grow your savings, and reach your goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

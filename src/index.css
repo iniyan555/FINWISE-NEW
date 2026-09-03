@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #F9FAFB;
+    --text-primary: #1A1F2C;
+    --border-subtle: #E5E7EB;
+    --brand-indigo: #4F46E5;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: #1A1F2C;
+    background-color: #F9FAFB;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: #E0E7FF;
+    color: #3730A3;
+  }
+}
+
